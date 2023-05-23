@@ -10,7 +10,7 @@ In our case, we need for 1 crate:
  
 For each cut, we lose .5cm to the saw.
 
-These values are hard-coded.
+These values were hard-coded.
 
 We use the planer to flatten the wood to the correct thickness beforehand, so here I ignore the thickness.
 
