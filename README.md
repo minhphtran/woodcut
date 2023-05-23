@@ -12,7 +12,7 @@ For each cut, we lose .5cm to the saw.
 
 These values were hard-coded.
 
-We use the planer to flatten the wood to the correct thickness beforehand, so here I ignore the thickness.
+We use the planer to wood pieces to the correct thickness beforehand, so here I ignore the thickness.
 
 The results:
 
