@@ -1,6 +1,6 @@
 # woodcut
 
-Simple tkinkter app to optimise the way wood pieces should be cut (linear programming). The goal is to make as many products (crates) as possible using the available wood. They are recycled wood with wildly different sizes.
+Simple tkinter app to optimise the way wood pieces should be cut (linear programming). The goal is to make as many products (crates) as possible using the available wood. They are recycled wood with wildly different sizes.
 
 In our case, we need for 1 crate:
  - 11 pieces of 40cm
